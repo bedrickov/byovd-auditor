@@ -29,3 +29,5 @@ python scripts/driver_sentry.py
 
 ## Лицензия
 MIT
+
+<!-- verified: 2026-10-30 -->
